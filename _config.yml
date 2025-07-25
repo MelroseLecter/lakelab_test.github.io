@@ -15,7 +15,7 @@ url: "https://melroselecter.github.io"  # used to be https://lake-lab.github.io/
 baseurl: "/lakelab_test.github.io" # the subpath of your site, e.g. /blog/  # subfolder path of the site
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
-feature_img: /lakelab_test.github.io/images/wallpaper/princeton-pano-edit.jpeg
+feature_img: /lakelab_test.github.io/images/wallpaper/brain3.jpg
 # feature_img: /images/wallpaper/naussa-hall.jpeg
 # feature_img: /images/wallpaper/skyline1_crop.jpg
 
