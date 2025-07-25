@@ -11,8 +11,8 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text:
 
 icon: # the emoji used as the favicon
-url: https://lake-lab.github.io/  # the base hostname & protocol for your site
-baseurl: # the subpath of your site, e.g. /blog/
+url: https://melroselecter.github.io  # used to be https://lake-lab.github.io/  # root domain of the site
+baseurl: /lakelab_test.github.io/ # the subpath of your site, e.g. /blog/  # subfolder path of the site
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 feature_img: /images/wallpaper/princeton-pano-edit.jpeg
